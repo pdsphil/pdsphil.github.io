@@ -15,8 +15,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><img src="/profile.jpg" height="175px" width="175px" /></p>
+
+        <h3>Projects</h3>
+        <p>- <a href="/optimizingherokuapps/">Optimizing Herouk Apps eBook</a></p> 
       </header>
       <section>
 
