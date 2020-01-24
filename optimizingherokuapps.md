@@ -21,7 +21,7 @@ I wrote the guide in mid 2013, so it’s a bit dated now. However, many of the c
 
 I self-published the guide, which was an interesting project on its own. I made some money, but I never had the marketing machine behind it that one needs to make serious money. It was a nice side project, and it even got me a conversation with a leading tech publisher about turning the guide into a full-on “Heroku book”. That’s a story for another time though.
 
-In the end, I decided to shut down the project after about two years and focus on something else. There’s still a lot of good content and topics in the guide for Heroku customers, so I wanted to make the guide [freely available](/OptimizingHerokuApps.pdf "Optimizing Heroku Apps"). Some of the blog posts on this site borrow heavily from the guide.
+In the end, I decided to shut down the project after about two years and focus on something else. There’s still a lot of good content and topics in the guide for Heroku customers, so I wanted to make the guide [freely available](/OptimizingHerokuApps.pdf "Optimizing Heroku Apps").
 
 So what exactly is this guide? Let’s start with what the guide isn’t. This guide is not an introduction to Heroku. It’s not an all-encompassing guide to the entire Heroku platform. There are plenty of guides or books in the community if this is what you are looking for. In particular, I recommend the following if you are looking for a ‘Heroku 101’ style overview:
 
