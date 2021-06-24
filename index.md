@@ -6,7 +6,11 @@ My name is Phil Ripperger, and I live in Colorado. I’m a husband, a father, a 
 
 Being a technologist, I'm interested in a wide variety of topics. Some of my current interests include drones, Tesla, solar power, crypto currency, SpaceX, machine learning, security, software development, databases, SaaS, and augmented reality.
 
-I currently work at Heroku, where I’ve been for eight years. I’ve been part of the software industry for over twenty years, and I’ve worked for both good and bad companies. Heroku is and continues to be the best company I’ve been fortunate to work for. I’m now in the process of building and growing my third team at Heroku, the Data Solution Architects. We help our customers succeed with their data, whether using Postgres, Kafka, Redis, or other.
+My main focus right now is building [Platform Experts](https://platformexperts.dev). It's a Slack-based service that provides tools and access to a community of Heroku experts, developers, and customers. If you need help with Heroku outside of the traditional means, [Platform Experts](https://platformexperts.dev) is for you.
+
+I also currently run an Add-on for the Heroku Ecosystem called [Remora Backup](https://www.remorabackup.com). If you need encrypted, offsite backups of your Heroku Postgres data, you should check out the service. I built it myself, and it takes full advantage of Heroku's best practices and security guidelines.
+
+Previously, I worked at Heroku for nearly ten years. I’ve been part of the software industry for over twenty-five years, and I’ve worked for both good and bad companies. Heroku was the best company I’ve been fortunate to work for. During my time there, I built and led three teams in the Support organization: the general Support team, the Customer Solution Architecture team, and finally the Data Solution Architecture team.
 
 ## Focus
 
@@ -14,7 +18,7 @@ I make it a priority to focus on deep work. I’m a big fan of [Cal Newport’s]
 
 Over the past few years, I’ve been relentless about removing distractions from my life, and I've been able to carve out mornings and late evenings for focused, deep work. I focus on learning, building, and creating value. I do this nearly every day. There are exceptions of course, but in general I do not check email, read news, or accept meetings before lunch. I leave my afternoons open for all the things that slice up my time and disrupt my concentration. And when the work day ends, I do not bring it home with me. I’ve long since deleted work email from my phone. This process and discipline was difficult at first, but it has paid off immensely in my personal and professional life, and continues to do so.
 
-Even after twenty five years of writing code, one of the activities I enjoy most is listening to a soundtrack and getting into a state of flow, usually working on a difficult problem involving code. I can spend hours doing this, and still often do.
+Even after twenty-five years of writing code, one of the activities I enjoy most is listening to a soundtrack and getting into a state of flow, usually working on a difficult problem involving code. I can spend hours doing this, and still often do.
 
 ## Social Media
 
