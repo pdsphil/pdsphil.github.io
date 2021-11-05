@@ -10,7 +10,7 @@ My main focus right now is building [Platform Experts](https://platformexperts.d
 
 I also currently run an Add-on for the Heroku Ecosystem called [Remora Backup](https://www.remorabackup.com). If you need encrypted, offsite backups of your Heroku Postgres data, you should check out the service. I built it myself, and it takes full advantage of Heroku's best practices and security guidelines.
 
-Previously, I worked at Heroku for nearly ten years. I’ve been part of the software industry for over twenty-five years, and I’ve worked for both good and bad companies. Heroku was the best company I’ve been fortunate to work for. During my time there, I built and led three teams in the Support organization: the general Support team, the Customer Solution Architecture team, and finally the Data Solution Architecture team.
+Previously, I worked at Heroku for nearly ten years. I’ve been part of the software industry for over twenty-five years, and I’ve worked for both good and bad companies. Heroku was the best company I’ve been fortunate to work for. During my time there, I built and led three teams in the Support organization: the general Support team, the Customer Solution Architecture team, and finally the Data Solution Architecture team. In the Summer of 2021, I was [interviewed on the Salesforce Developers Podcast](https://developer.salesforce.com/podcast/2021/07/episode-90-enterprise-heroku-support-with-chris-stolt-and-phil-ripperger) about the early days of Heroku Support.
 
 ## Focus
 
