@@ -4,11 +4,9 @@
 
 My name is Phil Ripperger, and I live in Colorado. I’m a husband, a father, a technologist, and I love to build things. I’m nearly always in the process of building something made of bits and data. And if not writing code or building systems, I’m probably working on building a team to solve a problem.
 
-Being a technologist, I'm interested in a wide variety of topics. Some of my current interests include drones, Tesla, solar power, crypto currency, SpaceX, machine learning, security, software development, databases, SaaS, and augmented reality.
+Being a technologist, I'm interested in a wide variety of topics. Some of my current interests include EVs, solar power, SpaceX, machine learning, security, software development, databases, SaaS, and augmented reality.
 
-My main focus right now is building [Platform Experts](https://platformexperts.dev). It's a Slack-based service that provides tools and access to a community of Heroku experts, developers, and customers. If you need help with Heroku outside of the traditional means, [Platform Experts](https://platformexperts.dev) is for you.
-
-I also currently run an Add-on for the Heroku Ecosystem called [Remora Backup](https://www.remorabackup.com). If you need encrypted, offsite backups of your Heroku Postgres data, you should check out the service. I built it myself, and it takes full advantage of Heroku's best practices and security guidelines.
+I currently run an Add-on for the Heroku Ecosystem called [Remora Backup](https://www.remorabackup.com). If you need encrypted, offsite backups of your Heroku Postgres data, you should check out the service. I built it myself, and it takes full advantage of Heroku's best practices and security guidelines.
 
 Previously, I worked at Heroku for nearly ten years. I’ve been part of the software industry for over twenty-five years, and I’ve worked for both good and bad companies. Heroku was the best company I’ve been fortunate to work for. During my time there, I built and led three teams in the Support organization: the general Support team, the Customer Solution Architecture team, and finally the Data Solution Architecture team. In the Summer of 2021, I was [interviewed on the Salesforce Developers Podcast](https://developer.salesforce.com/podcast/2021/07/episode-90-enterprise-heroku-support-with-chris-stolt-and-phil-ripperger) about the early days of Heroku Support.
 
@@ -22,4 +20,4 @@ Even after twenty-five years of writing code, one of the activities I enjoy most
 
 ## Social Media
 
-I consider social media and its ilk to be hugely destructive to work that matters, as well as a meaningful life. I don’t have much of a presence on social media. Facebook is terrible, and Twitter is the wild west. You might occasionally find me [posting](https://twitter.com/pdsphil) something to Twitter, but I largely ignore it. If you want to get in touch with me, use LinkedIn. Just kidding. Don’t get me started on LinkedIn. Seriously though, email is the best way to [reach me](mailto:philr@fastmail.com).
+I consider social media and its ilk to be hugely destructive to work that matters, as well as a meaningful life. I don’t have much of a presence on social media. Facebook is terrible, and Twitter is a dumpster fire. If you want to get in touch with me, use LinkedIn. Just kidding. Don’t get me started on LinkedIn. Seriously though, email is the best way to [reach me](mailto:philr@fastmail.com).
